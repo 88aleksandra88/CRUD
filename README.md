@@ -3,7 +3,7 @@
 <img src="https://itsolutionstuff.com/upload/laravel-8-inertia-crud-app.gif">
 
 
-- link to the project : []
+- link to the project : [http://hidden-caverns-39865.herokuapp.com/projects]
 
 - If you want to check it out in your local environement:
 
