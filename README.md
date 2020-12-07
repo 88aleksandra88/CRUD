@@ -13,10 +13,10 @@
 ``cd CRUD
 ``
 
-``composer install && npm run
+``composer install 
 ``
 
-``npm install
+``npm install && npm run
 ``
 - set your .env file (if you don't have .env file create one in the root of yout app and copy/paste .env.exaple in it. Then add your database info)
 
