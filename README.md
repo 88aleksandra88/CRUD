@@ -13,7 +13,7 @@
 ``cd CRUD
 ``
 
-``composer install
+``composer install && npm run
 ``
 
 ``npm install
