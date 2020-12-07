@@ -29,10 +29,13 @@
 
 ### Stack
 
-| ----------- | ----------- |
-|Deployement     |Heroku      |
-| Database   | postgreSQL     |
-| link to the project  | [http://hidden-caverns-39865.herokuapp.com/projects]       |
+
+- Deployement 
+    : Heroku      
+- Database   
+    : postgreSQL     
+- Link to the project  
+    : [http://hidden-caverns-39865.herokuapp.com/projects]       
 
 
 
