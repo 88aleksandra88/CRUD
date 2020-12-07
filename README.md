@@ -31,11 +31,11 @@
 
 
 - Deployement 
-    : Heroku      
+    * Heroku      
 - Database   
-    : postgreSQL     
+    * postgreSQL     
 - Link to the project  
-    : [http://hidden-caverns-39865.herokuapp.com/projects]       
+    * [http://hidden-caverns-39865.herokuapp.com/projects]       
 
 
 
